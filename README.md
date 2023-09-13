@@ -1,6 +1,8 @@
 **FakeSimCity: A Mobile City Constructor Game**
 
-![gif](https://raw.githubusercontent.com/RedisMadani/sim-city-project/main/info/car_animation.gif)
+<p align="center">
+  <img src="/info/car_animation.gif">
+</p>
 
 ![models](https://github.com/RedisMadani/sim-city-project/assets/136177376/77bf59ad-3b8a-4e4a-aa72-cc0b13cf3621)
 
