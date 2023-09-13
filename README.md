@@ -1,6 +1,6 @@
 **FakeSimCity: A Mobile City Constructor Game**
 
-<p align="center">
+<p align="center" style="width=100%">
   <img src="/info/car_animation.gif">
 </p>
 
