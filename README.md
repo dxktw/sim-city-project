@@ -1,5 +1,11 @@
 **FakeSimCity: A Mobile City Constructor Game**
 
+https://github.com/RedisMadani/sim-city-project/blob/main/info/car_animation.gif
+
+![models](https://github.com/RedisMadani/sim-city-project/assets/136177376/77bf59ad-3b8a-4e4a-aa72-cc0b13cf3621)
+
+![models2](https://github.com/RedisMadani/sim-city-project/assets/136177376/a5d37067-0212-4863-a1b5-9834b3da1700)
+
 **Introduction**
 
 Welcome to FakeSimCity, a mobile city construction game that draws inspiration from the popular SimCity franchise. This captivating gaming experience is meticulously crafted using Unity3D, designed to immerse players in the world of urban planning and development.
