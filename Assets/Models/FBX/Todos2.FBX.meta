@@ -1,0 +1,323 @@
+fileFormatVersion: 2
+guid: f79a320fa8e76614aab40290163ca60e
+timeCreated: 1494946159
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box001
+    100002: casa 01
+    100004: casa 01 grama
+    100006: casa 01 muro
+    100008: casa 01 piso entrada
+    100010: casa 01 portao
+    100012: casa 02
+    100014: casa 02 grama
+    100016: casa 02 muro
+    100018: casa 02 piso entrada
+    100020: casa 02 portao
+    100022: casa 03
+    100024: casa 03 grama
+    100026: casa 03 muro
+    100028: casa 03 piso entrada
+    100030: casa 03 portao
+    100032: hospital G
+    100034: hospital G grama
+    100036: hospital G piso entrada
+    100038: hospital G vagas
+    100040: hospital M
+    100042: hospital M grama
+    100044: hospital M piso entrada
+    100046: hospital M vagas
+    100048: hospital P
+    100050: hospital P grama
+    100052: hospital P piso entrada
+    100054: hospital piso entrada001
+    100056: loja 01
+    100058: loja 01 grama
+    100060: loja 01 piso entrada
+    100062: Object001
+    100064: policia
+    100066: policia M
+    100068: policia M grama
+    100070: policia M piso entrada
+    100072: policia M vagas
+    100074: policia P grama
+    100076: policia pequeno piso entrada
+    100078: predio 01
+    100080: predio 01 grama
+    100082: predio 01 muro
+    100084: predio 01 piso entrada
+    100086: predio 01 portao
+    100088: predio 02
+    100090: predio 02 grama
+    100092: predio 02 muro
+    100094: predio 02 piso entrada
+    100096: predio 02 portao
+    100098: //RootNode
+    400000: Box001
+    400002: casa 01
+    400004: casa 01 grama
+    400006: casa 01 muro
+    400008: casa 01 piso entrada
+    400010: casa 01 portao
+    400012: casa 02
+    400014: casa 02 grama
+    400016: casa 02 muro
+    400018: casa 02 piso entrada
+    400020: casa 02 portao
+    400022: casa 03
+    400024: casa 03 grama
+    400026: casa 03 muro
+    400028: casa 03 piso entrada
+    400030: casa 03 portao
+    400032: hospital G
+    400034: hospital G grama
+    400036: hospital G piso entrada
+    400038: hospital G vagas
+    400040: hospital M
+    400042: hospital M grama
+    400044: hospital M piso entrada
+    400046: hospital M vagas
+    400048: hospital P
+    400050: hospital P grama
+    400052: hospital P piso entrada
+    400054: hospital piso entrada001
+    400056: loja 01
+    400058: loja 01 grama
+    400060: loja 01 piso entrada
+    400062: Object001
+    400064: policia
+    400066: policia M
+    400068: policia M grama
+    400070: policia M piso entrada
+    400072: policia M vagas
+    400074: policia P grama
+    400076: policia pequeno piso entrada
+    400078: predio 01
+    400080: predio 01 grama
+    400082: predio 01 muro
+    400084: predio 01 piso entrada
+    400086: predio 01 portao
+    400088: predio 02
+    400090: predio 02 grama
+    400092: predio 02 muro
+    400094: predio 02 piso entrada
+    400096: predio 02 portao
+    400098: //RootNode
+    2300000: Box001
+    2300002: casa 01
+    2300004: casa 01 grama
+    2300006: casa 01 muro
+    2300008: casa 01 piso entrada
+    2300010: casa 01 portao
+    2300012: casa 02
+    2300014: casa 02 grama
+    2300016: casa 02 muro
+    2300018: casa 02 piso entrada
+    2300020: casa 02 portao
+    2300022: casa 03
+    2300024: casa 03 grama
+    2300026: casa 03 muro
+    2300028: casa 03 piso entrada
+    2300030: casa 03 portao
+    2300032: hospital G
+    2300034: hospital G grama
+    2300036: hospital G piso entrada
+    2300038: hospital G vagas
+    2300040: hospital M
+    2300042: hospital M grama
+    2300044: hospital M piso entrada
+    2300046: hospital M vagas
+    2300048: hospital P
+    2300050: hospital P grama
+    2300052: hospital P piso entrada
+    2300054: hospital piso entrada001
+    2300056: loja 01
+    2300058: loja 01 grama
+    2300060: loja 01 piso entrada
+    2300062: Object001
+    2300064: policia
+    2300066: policia M
+    2300068: policia M grama
+    2300070: policia M piso entrada
+    2300072: policia M vagas
+    2300074: policia P grama
+    2300076: policia pequeno piso entrada
+    2300078: predio 01
+    2300080: predio 01 grama
+    2300082: predio 01 muro
+    2300084: predio 01 piso entrada
+    2300086: predio 01 portao
+    2300088: predio 02
+    2300090: predio 02 grama
+    2300092: predio 02 muro
+    2300094: predio 02 piso entrada
+    2300096: predio 02 portao
+    3300000: Box001
+    3300002: casa 01
+    3300004: casa 01 grama
+    3300006: casa 01 muro
+    3300008: casa 01 piso entrada
+    3300010: casa 01 portao
+    3300012: casa 02
+    3300014: casa 02 grama
+    3300016: casa 02 muro
+    3300018: casa 02 piso entrada
+    3300020: casa 02 portao
+    3300022: casa 03
+    3300024: casa 03 grama
+    3300026: casa 03 muro
+    3300028: casa 03 piso entrada
+    3300030: casa 03 portao
+    3300032: hospital G
+    3300034: hospital G grama
+    3300036: hospital G piso entrada
+    3300038: hospital G vagas
+    3300040: hospital M
+    3300042: hospital M grama
+    3300044: hospital M piso entrada
+    3300046: hospital M vagas
+    3300048: hospital P
+    3300050: hospital P grama
+    3300052: hospital P piso entrada
+    3300054: hospital piso entrada001
+    3300056: loja 01
+    3300058: loja 01 grama
+    3300060: loja 01 piso entrada
+    3300062: Object001
+    3300064: policia
+    3300066: policia M
+    3300068: policia M grama
+    3300070: policia M piso entrada
+    3300072: policia M vagas
+    3300074: policia P grama
+    3300076: policia pequeno piso entrada
+    3300078: predio 01
+    3300080: predio 01 grama
+    3300082: predio 01 muro
+    3300084: predio 01 piso entrada
+    3300086: predio 01 portao
+    3300088: predio 02
+    3300090: predio 02 grama
+    3300092: predio 02 muro
+    3300094: predio 02 piso entrada
+    3300096: predio 02 portao
+    4300000: casa 01 grama
+    4300002: casa 01 muro
+    4300004: casa 01 piso entrada
+    4300006: casa 02 grama
+    4300008: casa 02 muro
+    4300010: casa 02 piso entrada
+    4300012: casa 03 grama
+    4300014: casa 03 muro
+    4300016: casa 03 piso entrada
+    4300018: predio 01 grama
+    4300020: predio 01 muro
+    4300022: predio 02 grama
+    4300024: predio 02 muro
+    4300026: policia P grama
+    4300028: policia pequeno piso entrada
+    4300030: predio 02 piso entrada
+    4300032: predio 01 piso entrada
+    4300034: casa 01
+    4300036: casa 02
+    4300038: casa 03
+    4300040: predio 01
+    4300042: predio 02
+    4300044: policia
+    4300046: casa 01 portao
+    4300048: casa 02 portao
+    4300050: casa 03 portao
+    4300052: predio 02 portao
+    4300054: predio 01 portao
+    4300056: Object001
+    4300058: Box001
+    4300060: policia M
+    4300062: policia M grama
+    4300064: hospital piso entrada001
+    4300066: policia M piso entrada
+    4300068: policia M vagas
+    4300070: hospital M grama
+    4300072: hospital M vagas
+    4300074: hospital M piso entrada
+    4300076: loja 01 piso entrada
+    4300078: loja 01
+    4300080: loja 01 grama
+    4300082: hospital P piso entrada
+    4300084: hospital P grama
+    4300086: hospital P
+    4300088: hospital M
+    4300090: hospital G piso entrada
+    4300092: hospital G vagas
+    4300094: hospital G grama
+    4300096: hospital G
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
